@@ -1,0 +1,23 @@
+# Core HTTP and API clients
+   requests>=2.31.0
+   httpx>=0.27.0
+
+   # Okta SDK
+   okta>=2.9.8
+
+   # Microsoft Graph SDK
+   msgraph-sdk>=1.0.0
+   azure-identity>=1.15.0
+
+   # Configuration and environment
+   python-dotenv>=1.0.0
+   pydantic>=2.5.0
+
+   # Logging and CLI
+   structlog>=24.1.0
+   click>=8.1.7
+
+   # Testing (dev dependencies)
+   pytest>=8.0.0
+   pytest-cov>=4.1.0
+   responses>=0.24.0
